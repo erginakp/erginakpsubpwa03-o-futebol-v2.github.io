@@ -1,0 +1,22 @@
+{
+	"name": "O Futebol PWA",
+	"gcm_sender_id": "1053146949266",
+	"short_name": "O Futebol",
+	"description": "My Football IT PWA",
+	"start_url": "/index.html",
+	"display": "standalone",
+	"background_color": "#263238",
+	"theme_color": "#263238",
+	"icons": [
+		{
+			"src": "images/icon-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "images/icon-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
